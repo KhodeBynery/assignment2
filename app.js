@@ -30,7 +30,7 @@ function ShoppingListCheckOffService() {
   var service = this;
 
   var toBuyList = [
-    { name: "Potatoes", quantity: 10 },
+    { name: "cookies", quantity: 10 },
     { name: "Ginger Ale", quantity: 1 },
     { name: "Sliced Bread", quantity: 2},
     { name: "Chicken meat", quantity: 5},
